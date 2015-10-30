@@ -1,5 +1,7 @@
-#->OPEN SOURCE SOCIETY UNIVERSITY<-
-->*Knowledge and skills as commons*<-
+<h3 align="center">Open Source Society University</h3>
+<p align="center">
+	*Knowledge and skills as commons*
+</p>
 
 CHANGELOG 
 

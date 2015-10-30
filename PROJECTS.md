@@ -1,6 +1,7 @@
-#->OPEN SOURCE SOCIETY UNIVERSITY<-
-->*Knowledge and skills as commons*<-
-
+<h3 align="center">Open Source Society University</h3>
+<p align="center">
+	*Knowledge and skills as commons*
+</p>
 
 >Here, we are providing a list curated by the community of exercices and projects to practice and reinforce the skills we try to master.
 
