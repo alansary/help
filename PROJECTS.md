@@ -3,9 +3,7 @@
 	*Knowledge and skills as commons*
 </p>
 
-<p align="center">
-####Projects ideas
-</p>
+<h4 align="center">Projects ideas</h4>
 
 >Here, we are providing a list curated by the community of exercices and projects to practice and reinforce the skills we try to master.
 
