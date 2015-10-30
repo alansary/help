@@ -2,8 +2,9 @@
 <p align="center">
 	*Knowledge and skills as commons*
 </p>
-
-##->MISSION STATEMENT<-
+<p align="center">
+####Mission Statement
+</p>
 
 >The fundamental ideas behind OSSU for building a free and open source university is that we can all participate collaboratively to give to each and every person around the world access to an education in which they can take full responsibility for their own path. 
 

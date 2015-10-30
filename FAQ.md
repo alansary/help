@@ -3,7 +3,9 @@
 	*Knowledge and skills as commons*
 </p>
 
-###Frequently Asked Question
+<p align="center">
+####Frequently Asked Question
+</p>
 
 * **Question** : What is Open Source Society, and what does it mean to have self-taught education in Computer Science !?
 
