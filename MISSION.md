@@ -1,13 +1,13 @@
 <h3 align="center">Open Source Society University</h3>
 <p align="center">
-	*Knowledge and skills as commons*
+	<i>Knowledge and skills as commons</i>
 </p>
 
 <h4 align="center">Mission Statement</h4>
 
->The fundamental ideas behind OSSU for building a free and open source university is that we can all participate collaboratively to give to each and every person around the world access to an education in which they can take full responsibility for their own path. 
+The fundamental ideas behind OSSU for building a free and open source university is that we can all participate collaboratively to give to each and every person around the world access to an education in which they can take full responsibility for their own path. 
 
->In order to accomplish this mission, our main focus as members of OSSU is :
+In order to accomplish this mission, our main focus as members of OSSU is :
 
 * **To support a community of self-directed and self-paced learners and teachers.**  
 *(know yourself and your own path)*

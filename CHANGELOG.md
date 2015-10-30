@@ -1,6 +1,6 @@
 <h3 align="center">Open Source Society University</h3>
 <p align="center">
-	*Knowledge and skills as commons*
+	<i>Knowledge and skills as commons</i>
 </p>
 
 CHANGELOG 
