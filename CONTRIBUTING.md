@@ -2,7 +2,7 @@
 
 ## Being a member of the OSSU Community
 
-At OSSU, we consider students and teachers to be the core members of the community, and you don’t need to ask for any particular status in the team to be a part of it. To become a contributor, simply participate using the differents tools and channels that we have established. You can apply for the curriculum following the instructions here.
+At OSSU, we consider students and teachers to be the core members of the community, and you don’t need to ask for any particular status in the team to be a part of it. To become a contributor, simply participate using the differents tools and channels that we have established. You can apply for the curriculum following the instructions [here](https://github.com/open-source-society/computer-science#becoming-an-oss-student).
 
 ## Being a member of the Community Management Team
 
