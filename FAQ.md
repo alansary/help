@@ -17,7 +17,7 @@ Yes and no. Yes, if you want to learn the complete set of skills that this curri
 
 ### Some of the courses appear to be closed and there doesnt seem to be a way to access their content! What should I do?
 
-Though we encourage Self-paced learning, some courses are closed by the MOOC plateform and are only open at certain time intervals. We suggest you check them right now and register for the courses even if you won't complete them now. Once you've registered you should have access to most of the material even after the course officially ends. If you see that one of the courses is starting soon, don't hesitate to tell the community about it. (For example: the automata course on coursera is open until 6 november 2015) Again, you should consider enrolling now for all of the open courses you plan to do in the future as the course could be closed later.
+Though we encourage Self-paced learning, some courses are closed by the MOOC platform and are only open at certain time intervals. We suggest you check them right now and register for the courses even if you won't complete them now. Once you've registered you should have access to most of the material even after the course officially ends. If you see that one of the courses is starting soon, don't hesitate to tell the community about it. (For example: the automata course on coursera is open until 6 november 2015) Again, you should consider enrolling now for all of the open courses you plan to do in the future as the course could be closed later.
 
 
 ### I have a problem to solve and I've already spent hours on it, what can I do ? 
