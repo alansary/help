@@ -115,7 +115,7 @@ Project Title | Description | Authors | Repository
 
 Project Title | Description | Authors | Repository
 :-- | :-- | :--: | :--
-|  |  |
+| Slope Field Visualization | Visualize slope field of a function using it's derivative | Mahdi Dibaiee | https://github.com/mdibaiee/slope-field
 
 ### Calculus Two: Sequences and Series
 
